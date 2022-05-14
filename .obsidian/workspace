@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "88aa41fd5217eef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b63e63a296b5c10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b1bdc2f58348516",
+    "type": "split",
+    "children": [
+      {
+        "id": "d93b291f0d6f69f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "879cc0386220209f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ca0a318f19b6629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a39de08c934aef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac86c73969699a26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f73be8fc78623c10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34e0bd4fd04b090c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "6715c19dba6a0de6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ac5a0ded973428d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78a309a6f153c247",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4b63e63a296b5c10",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "It starts right here.md",
+    "Prrr Yep.md",
+    "CSS.md",
+    "HTML.md",
+    "JavaScript.md",
+    "link.md",
+    "test folder/test child.md",
+    "Test root.md",
+    "Cascading Style Sheets (CSS).md"
+  ]
+}
